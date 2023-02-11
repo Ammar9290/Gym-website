@@ -1,0 +1,80 @@
+.title{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+   padding-top:22% ;
+   color: #fff;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   text-align: center;
+   right: 3%;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+body{
+    text-align: center;
+    font-family: 'Chakra Petch', sans-serif;
+}
+.btn-place{
+    text-align: right;
+}
+.imgt{
+  height: 100%;
+  width: 100%;
+    
+}
+.navibar{
+    background-color: rgb(238, 238, 250);
+}
+#features {
+
+}
+.feature-box{
+    text-align: center;
+    padding: 5% 3%;
+}
+.icon:hover{
+    color: black;
+}
+.imgtr{
+    
+    float: left ;
+    margin-right: 5%;
+    width: 100px;
+    height: 300px;
+    border-radius: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+.sectionc{
+    text-align: center;
+    background-color: #322a2b;
+    color: #fff;
+    padding:3% 5%;
+    
+}
+
+.skill-row{
+    margin-top: 15%;
+    width: 50%;
+    margin: 100px auto  100px auto;
+    text-align: left;
+}
+.imgsi{
+   padding-right: 3%;
+   padding-left: 3%;
+   height: 20%;
+   width: 20%;
+   border-radius: 100%;
+}
+
+#pricing{
+    padding: 5%;
+}
+.h:hover{
+    color: rgb(172, 17, 17);
+}
+#sectionz{
+    text-align: center;
+    
+}
